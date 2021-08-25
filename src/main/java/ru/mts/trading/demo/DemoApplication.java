@@ -1,4 +1,4 @@
-package com.phil.demo;
+package ru.mts.trading.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

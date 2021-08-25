@@ -1,7 +1,7 @@
-package com.phil.demo.api;
+package ru.mts.trading.demo.api;
 
-import com.phil.demo.model.User;
-import com.phil.demo.model.UserService;
+import ru.mts.trading.demo.model.User;
+import ru.mts.trading.demo.model.UserService;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

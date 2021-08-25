@@ -1,4 +1,4 @@
-package com.phil.demo.model;
+package ru.mts.trading.demo.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

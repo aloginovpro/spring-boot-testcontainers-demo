@@ -1,6 +1,6 @@
-package com.phil.demo.db;
+package ru.mts.trading.demo.db;
 
-import com.phil.demo.model.User;
+import ru.mts.trading.demo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

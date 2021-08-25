@@ -1,6 +1,6 @@
-package com.phil.demo.model;
+package ru.mts.trading.demo.model;
 
-import com.phil.demo.db.UserRepository;
+import ru.mts.trading.demo.db.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
